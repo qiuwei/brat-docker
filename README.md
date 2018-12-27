@@ -1,6 +1,6 @@
 # NOTE
 
-I am no longer doing anything with brat and am not maintaining this at all. 
+A fork of cassj/brat-docker. Use the latest master branch.  
 
 # brat docker
 
